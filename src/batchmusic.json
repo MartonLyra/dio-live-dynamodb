@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Michael Jackson"},
+                  "SongTitle": {"S": "The Girl Is Mine"},
+                  "AlbumTitle": {"S": "Thriller"},
+                  "SongYear": {"S": "1982"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Michael Jackson"},
+                  "SongTitle": {"S": "Human Nature"},
+                  "AlbumTitle": {"S": "Thriller"},
+                  "SongYear": {"S": "1982"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Michael Jackson"},
+                  "SongTitle": {"S": "Beat It"},
+                  "AlbumTitle": {"S": "Thriller"},
+                  "SongYear": {"S": "1982"}
                 }
             }
         }
